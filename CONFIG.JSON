@@ -1,0 +1,7 @@
+{
+  "OPENAI_KEY" :  "",
+  "OPENAI_ORG" : "",
+  "AI_MODEL": "gpt-4",
+  "GCLOUD_WORKER_FILE" :"",
+  "GCLOUD_BUCKET" : ""
+}
